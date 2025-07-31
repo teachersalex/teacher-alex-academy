@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teacher-alex-academy/static/css/main.93a0497a.css",
+    "main.js": "/teacher-alex-academy/static/js/main.6faf6747.js",
+    "static/js/568.2c802adb.chunk.js": "/teacher-alex-academy/static/js/568.2c802adb.chunk.js",
+    "index.html": "/teacher-alex-academy/index.html",
+    "main.93a0497a.css.map": "/teacher-alex-academy/static/css/main.93a0497a.css.map",
+    "main.6faf6747.js.map": "/teacher-alex-academy/static/js/main.6faf6747.js.map",
+    "568.2c802adb.chunk.js.map": "/teacher-alex-academy/static/js/568.2c802adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.6faf6747.js"
+  ]
+}
