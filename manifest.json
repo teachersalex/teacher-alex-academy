@@ -1,0 +1,27 @@
+{
+  "short_name": "Alex Academy",
+  "name": "Teacher Alex's English Academy",
+  "description": "Professional English Learning for Brazilians",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#196de3",
+  "background_color": "#f8fafc",
+  "orientation": "portrait"
+}
