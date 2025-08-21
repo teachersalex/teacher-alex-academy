@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkteacher_alex_academy=self.webpackChunkteacher_alex_academy||[]).push([[165],{165:(e,a,c)=>{c.d(a,{PORTAL_LESSONS:()=>s});const s=[]}}]);
-//# sourceMappingURL=165.177ae2e8.chunk.js.map
